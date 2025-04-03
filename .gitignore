@@ -16,4 +16,4 @@
 
 # Otros
 log.txt
-game/saves
+game/saves/*
